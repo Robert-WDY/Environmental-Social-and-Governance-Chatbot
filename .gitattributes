@@ -1,0 +1,2 @@
+datasets/preprocessed_content.csv filter=lfs diff=lfs merge=lfs -text
+datasets/esg_documents_for_dax_companies.csv filter=lfs diff=lfs merge=lfs -text
